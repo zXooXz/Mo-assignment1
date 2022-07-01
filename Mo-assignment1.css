@@ -1,0 +1,54 @@
+body {
+  margin: 10px;
+  background-color: #4916F8;
+  font-family: arial;
+}
+
+.layout {
+  color: white;
+  display: flex;
+  align-items: center;
+  margin-left: 25px;
+}
+
+.section-1 {
+  color: white;
+  margin-top: 200px;
+  margin-bottom: 175px;
+  margin-left: 25px;
+  display: flex;
+}
+
+.section-2 {
+  margin: 120px;
+  text-align: center;
+  color: white;
+}
+
+.section-3 {
+  display: flex;
+  flex: 1;
+  color: white;
+}
+
+
+.item {
+  flex: 1;
+  color: white;
+  margin: 100px;
+}
+
+input[type=button] {
+  padding: 10px; 25px;
+  font-weight: bold;
+  border: 0px;
+  border-radius: 22px;
+}
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  color: pink;
+}
